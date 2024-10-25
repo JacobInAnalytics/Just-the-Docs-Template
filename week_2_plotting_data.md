@@ -1,5 +1,7 @@
-# Tags
-#python #VisualisingData
+---
+title: Week2
+layout: default
+---
 
 ## Pivot tables/ pd.pivot_table
 
